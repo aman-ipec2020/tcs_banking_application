@@ -106,7 +106,7 @@
 		</dependency>
 
 	</dependencies>
-<!--
+
 	<build>
 		<plugins>
 
@@ -124,7 +124,7 @@
       </plugins>
 	
 	</build>
--->
+<!--
 	<build>
 		<finalName>TCS Project : Banking Application</finalName>
 		<plugins>
@@ -154,5 +154,5 @@
 
 		</plugins>
 	</build>
-
+-->
 </project>
